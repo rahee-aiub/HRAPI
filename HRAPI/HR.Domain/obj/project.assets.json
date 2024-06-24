@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Domain\\HR.Domain.csproj",
+      "projectUniqueName": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\HR.Domain.csproj",
       "projectName": "HR.Domain",
-      "projectPath": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Domain\\HR.Domain.csproj",
+      "projectPath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\HR.Domain.csproj",
       "packagesPath": "C:\\Users\\RAHEE\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Domain\\obj\\",
+      "outputPath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RAHEE\\AppData\\Roaming\\NuGet\\NuGet.Config",

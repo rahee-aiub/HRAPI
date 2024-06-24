@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YPwmBuUaSzJvoePpiqnGcNiU3as3BgjaMCbp+6eGIE9p1zL7ys38Zcck7mV7lBBKY2mUtcdLxcCXGuFpKOwAZQ==",
+  "dgSpecHash": "xFN1s8zVCiHBiZky0FKX3aOj1XS8W8NPja0dqgJW57+4RnZ7tLJ9cKkGhuiW6jwo4g3OinyYrYpZdh+WyUSekA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\HR.Infrastructure.csproj",
+  "projectFilePath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\HR.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAHEE\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\RAHEE\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2kxHZkcZyjCucx6DAUD7Ka0eKXxXbm5RZYWY1AjjPl2m1xqTf7ndShPTbQHIKesbu2+hO/FrP1UwkU/qvlj0Zw==",
+  "dgSpecHash": "K8/0Sijujr+gEVNbIqhAuAcKcTHlr4P3t81plULyTjH6v41EZHbm1yIJsNZ31jMJdIXN2QENNptvgOLg4C1ZJw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Domain\\HR.Domain.csproj",
+  "projectFilePath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\HR.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

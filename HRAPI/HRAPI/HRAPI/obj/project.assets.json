@@ -5004,11 +5004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.Net 8 Projects\\HR\\HRAPI\\HRAPI\\HR.API.csproj",
+      "projectUniqueName": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\HR.API.csproj",
       "projectName": "HR.API",
-      "projectPath": "D:\\Projects\\.Net 8 Projects\\HR\\HRAPI\\HRAPI\\HR.API.csproj",
+      "projectPath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\HR.API.csproj",
       "packagesPath": "C:\\Users\\RAHEE\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.Net 8 Projects\\HR\\HRAPI\\HRAPI\\obj\\",
+      "outputPath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RAHEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5025,11 +5025,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj": {
-              "projectPath": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj"
+            "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj": {
+              "projectPath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj"
             },
-            "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\HR.Infrastructure.csproj": {
-              "projectPath": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\HR.Infrastructure.csproj"
+            "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\HR.Infrastructure.csproj": {
+              "projectPath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\HR.Infrastructure.csproj"
             }
           }
         }
