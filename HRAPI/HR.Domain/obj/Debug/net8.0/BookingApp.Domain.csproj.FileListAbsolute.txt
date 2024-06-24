@@ -1,0 +1,33 @@
+F:\Recent Work\Testing_Project\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.deps.json
+F:\Recent Work\Testing_Project\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.pdb
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfoInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfo.cs
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.csproj.CoreCompileInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\refint\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.pdb
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\ref\BookingApp.Domain.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.deps.json
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.pdb
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfoInputs.cache
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfo.cs
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\refint\BookingApp.Domain.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.pdb
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\ref\BookingApp.Domain.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.deps.json
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.pdb
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfoInputs.cache
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfo.cs
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\refint\BookingApp.Domain.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.pdb
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.Domain\obj\Debug\net8.0\ref\BookingApp.Domain.dll

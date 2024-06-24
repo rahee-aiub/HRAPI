@@ -1,0 +1,51 @@
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.deps.json
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.AssemblyReference.cache
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfoInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfo.cs
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.CoreCompileInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.CopyComplete
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\refint\BookingApp.ApplicationLayer.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\ref\BookingApp.ApplicationLayer.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.deps.json
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.pdb
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.pdb
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.AssemblyReference.cache
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfoInputs.cache
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfo.cs
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.CoreCompileInputs.cache
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingA.26ABA607.Up2Date
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\refint\BookingApp.ApplicationLayer.dll
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+D:\Projects\BookingApp-main\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\ref\BookingApp.ApplicationLayer.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.deps.json
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.pdb
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.pdb
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.AssemblyReference.cache
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfoInputs.cache
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfo.cs
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.CoreCompileInputs.cache
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingA.26ABA607.Up2Date
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\refint\BookingApp.ApplicationLayer.dll
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+D:\Projects\.Net 8 Projects\BookingApp-main\BookingApp.ApplicationLayer\obj\Debug\net8.0\ref\BookingApp.ApplicationLayer.dll
