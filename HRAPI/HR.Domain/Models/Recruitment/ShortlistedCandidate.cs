@@ -1,6 +1,6 @@
 ﻿namespace HR.Domain.Models.Recruitment
 {
-    internal class ShortlistedCandidate
+    public class ShortlistedCandidate
     {
         public int ShortlistId { get; set; }
         public int ApplicationId { get; set; }

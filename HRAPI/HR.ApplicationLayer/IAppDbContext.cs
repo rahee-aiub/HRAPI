@@ -20,6 +20,7 @@ public interface IAppDbContext
     DbSet<LoginUser> LoginUsers { get;  }
     DbSet<RecruitmentCircular> RecruitmentCirculars { get;  }
     DbSet<CandidateApplication> CandidateApplications { get;  }
+    DbSet<ShortlistedCandidate> ShortlistedCandidates { get;  }
 
     Task<int> SaveChangesAsync();
 

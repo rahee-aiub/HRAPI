@@ -46,7 +46,7 @@ namespace HR.Controllers
             return Ok(designation);
         }
 
-        [HttpPut("{id}")]
+        [HttpPost("{id}")]
         public async Task<ActionResult> UpdateDesignation(int id, [FromBody] Designation designation)
         {
             if (designation == null || id != designation.DesignationId)

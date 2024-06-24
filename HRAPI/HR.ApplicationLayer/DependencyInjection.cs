@@ -19,6 +19,7 @@ public static class DependencyInjection
         services.AddScoped<IEmployeeService, EmployeeSetupService>();
         services.AddScoped<IRecruitmentCircularService, RecruitmentCircularService>();
         services.AddScoped<ICandidateApplicationService, CandidateApplicationService>();
+        services.AddScoped<IShortlistedCandidateService, ShortlistedCandidateService>();
 
 
         return services;

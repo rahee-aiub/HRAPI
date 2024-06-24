@@ -20,6 +20,7 @@ namespace HR.Infastructure.Data
         public DbSet<LoginUser> LoginUsers => Set<LoginUser>();
         public DbSet<RecruitmentCircular> RecruitmentCirculars => Set<RecruitmentCircular>();
         public DbSet<CandidateApplication> CandidateApplications => Set<CandidateApplication>();
+        public DbSet<ShortlistedCandidate> ShortlistedCandidates => Set<ShortlistedCandidate>();
 
        
         public  async Task<int> SaveChangesAsync()

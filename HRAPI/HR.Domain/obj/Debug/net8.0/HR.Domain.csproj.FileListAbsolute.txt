@@ -20,3 +20,15 @@ D:\Projects\.Net 8 Projects\HR\HR.Domain\obj\Debug\net8.0\HR.Domain.dll
 D:\Projects\.Net 8 Projects\HR\HR.Domain\obj\Debug\net8.0\refint\HR.Domain.dll
 D:\Projects\.Net 8 Projects\HR\HR.Domain\obj\Debug\net8.0\HR.Domain.pdb
 D:\Projects\.Net 8 Projects\HR\HR.Domain\obj\Debug\net8.0\ref\HR.Domain.dll
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\bin\Debug\net8.0\HR.Domain.deps.json
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\bin\Debug\net8.0\HR.Domain.dll
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\bin\Debug\net8.0\HR.Domain.pdb
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\HR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\HR.Domain.AssemblyInfoInputs.cache
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\HR.Domain.AssemblyInfo.cs
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\HR.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\HR.Domain.sourcelink.json
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\HR.Domain.dll
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\refint\HR.Domain.dll
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\HR.Domain.pdb
+D:\Projects\.Net 8 Projects\Git\HR\HRAPI\HR.Domain\obj\Debug\net8.0\ref\HR.Domain.dll
