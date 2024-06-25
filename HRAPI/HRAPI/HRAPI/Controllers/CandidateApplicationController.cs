@@ -34,7 +34,16 @@ namespace HR.Controllers
             }
             return Ok(designation);
         }
-
+        [HttpGet("{id}")]
+        public async Task<ActionResult<CandidateApplicationRequest>> GetByRecruitmentId(int id)
+        {
+            var CandidateApplicantList = await _service.GetByRecruitmentIdAsync(id);
+            if (CandidateApplicantList == null)
+            {
+                return NotFound();
+            }
+            return Ok(CandidateApplicantList);
+        }
 
         [HttpPost]
         public async Task<ActionResult<CandidateApplicationRequest>> Add([FromBody] CandidateApplicationRequest candidateApplication)

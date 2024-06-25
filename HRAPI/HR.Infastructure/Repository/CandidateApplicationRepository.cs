@@ -43,7 +43,10 @@ namespace HR.Infastructure.Repository
         {
             return await _connection.CandidateApplications.FindAsync(id) ?? new CandidateApplication();
         }
-
+        public async Task<List<CandidateApplication>> GetByRecruitmentIdAsync(int id)
+        {
+            return await _connection.CandidateApplications.Where(k=>k.RecruitmentCircularId == id).ToListAsync() ?? new List<CandidateApplication>();
+        }
         public async Task<int> UpDateAsync(int id, CandidateApplication model)
         {
             var existingData = await _connection.CandidateApplications.FindAsync(id);

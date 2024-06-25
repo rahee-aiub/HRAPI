@@ -26,7 +26,7 @@ namespace HR.ApplicationLayer.Services
 
             var recruitment = await _recruitmentCircularRepository.GetByIdAsync(CandidateApplication.RecruitmentCircularId);
 
-            if (recruitment != null || recruitment.isActive.Value == 0)
+            if (recruitment == null || recruitment.isActive.Value == 0)
             {
                 throw new Exception("The Recruitment is not found or is not Active");
             
@@ -51,7 +51,10 @@ namespace HR.ApplicationLayer.Services
         {
             return _mapper.Map<CandidateApplicationRequest>(await _repository.GetByIdAsync(id));
         }
-
+        public async Task<List<CandidateApplicationRequest>> GetByRecruitmentIdAsync(int id)
+        {
+            return _mapper.Map< List<CandidateApplicationRequest>>(await _repository.GetByIdAsync(id));
+        }
         public async Task<int> UpDateAsync(int id, CandidateApplicationRequest CandidateApplication)
         {
             return await _repository.UpDateAsync(id, _mapper.Map<CandidateApplication>(CandidateApplication));

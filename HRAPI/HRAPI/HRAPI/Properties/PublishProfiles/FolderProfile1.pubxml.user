@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Intel\HR</_PublishTargetUrl>
-    <History>True|2024-06-24T06:14:40.6078583Z;False|2024-06-24T12:14:17.7523440+06:00;True|2024-06-24T12:12:54.0759967+06:00;</History>
+    <History>True|2024-06-25T10:33:33.0550519Z;False|2024-06-25T16:32:19.9420142+06:00;True|2024-06-24T16:31:10.6592539+06:00;True|2024-06-24T12:14:40.6078583+06:00;False|2024-06-24T12:14:17.7523440+06:00;True|2024-06-24T12:12:54.0759967+06:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

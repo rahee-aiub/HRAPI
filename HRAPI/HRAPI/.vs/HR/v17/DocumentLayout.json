@@ -3,22 +3,73 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\shortlistedcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\shortlistedcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\candidateapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\candidateapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\services\\candidateapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\iservices\\icandidateapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\repository\\candidateapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D483DDA-8BA9-4B8F-A4A2-EECE3633333A}|..\\HR.Domain\\HR.Domain.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.domain\\interface\\icandidateapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\configuration\\designationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\configuration\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\configuration\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\configuration\\candidateapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\configuration\\shortlistedcandidateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\shortlistedcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\shortlistedcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\dtos\\recruitment\\candidateapplicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\bookingapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\bookingapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\candidateapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\candidateapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\services\\shortlistedcandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,9 +90,6 @@
       "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\repository\\shortlistedcandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D483DDA-8BA9-4B8F-A4A2-EECE3633333A}|..\\HR.Domain\\HR.Domain.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.domain\\interface\\ishortlistedcandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,9 +97,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D483DDA-8BA9-4B8F-A4A2-EECE3633333A}|..\\HR.Domain\\HR.Domain.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.domain\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D483DDA-8BA9-4B8F-A4A2-EECE3633333A}|..\\HR.Domain\\HR.Domain.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.domain\\interface\\icandidateapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D483DDA-8BA9-4B8F-A4A2-EECE3633333A}|..\\HR.Domain\\HR.Domain.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.domain\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -63,18 +108,11 @@
       "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\dtos\\recruitment\\recruitmentcircularrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E2DFEE7-5DAC-4367-8546-14CA513D4EC4}|..\\HR.ApplicationLayer\\HR.ApplicationLayer.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.applicationlayer\\dtos\\recruitment\\candidateapplicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\bookingapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\bookingapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\employeesetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\employeesetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -105,14 +139,7 @@
       "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hrapi\\hrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C166B25-D976-4D8C-AD74-5CC6E3219ECF}|HRAPI\\HR.API.csproj|solutionrelative:hrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\RecruitmentCircularService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -188,6 +215,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F95BE-0BF1-4727-9B3B-36F28FBB90DC}|..\\HR.Infastructure\\HR.Infrastructure.csproj|d:\\projects\\.net 8 projects\\git\\hr\\hrapi\\hr.infastructure\\migrations\\20240624095551_modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -197,11 +227,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "RecruitmentCircularService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\RecruitmentCircularService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\RecruitmentCircularService.cs",
@@ -214,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 17,
               "Title": "CandidateApplicationService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs",
@@ -227,7 +257,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CandidateApplicationController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CandidateApplicationController.cs",
+              "RelativeDocumentMoniker": "HRAPI\\Controllers\\CandidateApplicationController.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CandidateApplicationController.cs",
+              "RelativeToolTip": "HRAPI\\Controllers\\CandidateApplicationController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:56:24.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DesignationController.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\DesignationController.cs",
               "RelativeDocumentMoniker": "HRAPI\\Controllers\\DesignationController.cs",
@@ -241,18 +284,177 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\DependencyInjection.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\HR.ApplicationLayer\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HRAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Program.cs",
+              "RelativeToolTip": "HRAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:11:01.573Z"
+              "WhenOpened": "2024-06-13T09:01:53.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "ICandidateApplicationService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IServices\\ICandidateApplicationService.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\IServices\\ICandidateApplicationService.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IServices\\ICandidateApplicationService.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\IServices\\ICandidateApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:25:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateApplicationService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\Services\\CandidateApplicationService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwB4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:26:23.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandidateApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:27:27.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HRAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HRAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:51:48.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICandidateApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
+              "RelativeDocumentMoniker": "..\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
+              "RelativeToolTip": "..\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:11:57.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\IAppDbContext.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IAppDbContext.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\IAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:52:57.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DesignationConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\DesignationConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Configuration\\DesignationConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\DesignationConfiguration.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Configuration\\DesignationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:13:14.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:57:50.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateApplicationConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:57:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Configuration\\CompanyConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\CompanyConfiguration.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Configuration\\CompanyConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:13:06.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:13:09.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240624095551_Modify.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Migrations\\20240624095551_Modify.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Migrations\\20240624095551_Modify.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Migrations\\20240624095551_Modify.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Migrations\\20240624095551_Modify.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:55:51.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShortlistedCandidateConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\ShortlistedCandidateConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Configuration\\ShortlistedCandidateConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Configuration\\ShortlistedCandidateConfiguration.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Configuration\\ShortlistedCandidateConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:55:13.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\HR.Infastructure\\Data\\AppDbContext.cs",
@@ -264,20 +466,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "ShortlistedCandidateController.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\ShortlistedCandidateController.cs",
               "RelativeDocumentMoniker": "HRAPI\\Controllers\\ShortlistedCandidateController.cs",
               "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\ShortlistedCandidateController.cs",
               "RelativeToolTip": "HRAPI\\Controllers\\ShortlistedCandidateController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADkAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:07:50.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T06:07:50.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "ShortlistedCandidateService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Services\\ShortlistedCandidateService.cs",
               "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Services\\ShortlistedCandidateService.cs",
@@ -289,295 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShortlistedCandidateRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
-              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
-              "RelativeToolTip": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:56:27.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IShortlistedCandidateService.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
-              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
-              "RelativeToolTip": "..\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:55:56.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\HR.Infastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\HR.Infastructure\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:55:21.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CandidateApplicationController.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CandidateApplicationController.cs",
-              "RelativeDocumentMoniker": "HRAPI\\Controllers\\CandidateApplicationController.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CandidateApplicationController.cs",
-              "RelativeToolTip": "HRAPI\\Controllers\\CandidateApplicationController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBsAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:56:24.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ShortlistedCandidateRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
-              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
-              "RelativeToolTip": "..\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:52:26.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShortlistedCandidate.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
-              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
-              "RelativeToolTip": "..\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:12:30.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IAppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\IAppDbContext.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IAppDbContext.cs",
-              "RelativeToolTip": "..\\HR.ApplicationLayer\\IAppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:52:57.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "..\\HR.Domain\\Interface\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICategoryRepository.cs",
-              "RelativeToolTip": "..\\HR.Domain\\Interface\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:51:45.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IShortlistedCandidateRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
-              "RelativeDocumentMoniker": "..\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
-              "RelativeToolTip": "..\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:50:31.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\LoginUser.cs",
-              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\LoginUser.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\LoginUser.cs",
-              "RelativeToolTip": "..\\HR.Domain\\Models\\LoginUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:49:53.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ICandidateApplicationRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
-              "RelativeDocumentMoniker": "..\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
-              "RelativeToolTip": "..\\HR.Domain\\Interface\\ICandidateApplicationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:11:57.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CandidateApplication.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
-              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
-              "RelativeToolTip": "..\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:07:28.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\BaseModel.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\BaseModel.cs",
-              "RelativeToolTip": "..\\HR.Domain\\Models\\BaseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:49:51.675Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "RecruitmentCircularRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
-              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
-              "RelativeToolTip": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAmwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:11:37.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CandidateApplicationRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
-              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
-              "RelativeToolTip": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCIAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:04:11.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "HRAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.Development.json",
-              "RelativeToolTip": "HRAPI\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-24T05:04:05.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T05:24:19.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T05:24:18.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "HRAPI\\Models\\TokenResponse.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\TokenResponse.cs",
-              "RelativeToolTip": "HRAPI\\Models\\TokenResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:04:17.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "JWTSettings.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\JWTSettings.cs",
-              "RelativeDocumentMoniker": "HRAPI\\Models\\JWTSettings.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\JWTSettings.cs",
-              "RelativeToolTip": "HRAPI\\Models\\JWTSettings.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:04:14.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "HRAPI\\appsettings.json",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.json",
-              "RelativeToolTip": "HRAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T09:12:49.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Program.cs",
-              "RelativeDocumentMoniker": "HRAPI\\Program.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Program.cs",
-              "RelativeToolTip": "HRAPI\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T09:01:53.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CandidateApplicationRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:02:11.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CandidateApplicationConfiguration.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:02:40.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "BookingApplicationAPI.http",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\BookingApplicationAPI.http",
               "RelativeDocumentMoniker": "HRAPI\\BookingApplicationAPI.http",
@@ -589,7 +502,259 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CandidateApplicationRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:04:11.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:11:01.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShortlistedCandidateRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\ShortlistedCandidateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:56:27.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IShortlistedCandidateService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\IServices\\IShortlistedCandidateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:55:56.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:55:21.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShortlistedCandidateRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
+              "RelativeDocumentMoniker": "..\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
+              "RelativeToolTip": "..\\HR.Infastructure\\Repository\\ShortlistedCandidateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:52:26.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShortlistedCandidate.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
+              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
+              "RelativeToolTip": "..\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:12:30.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\HR.Domain\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\HR.Domain\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:51:45.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IShortlistedCandidateRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
+              "RelativeDocumentMoniker": "..\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
+              "RelativeToolTip": "..\\HR.Domain\\Interface\\IShortlistedCandidateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:50:31.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\LoginUser.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\LoginUser.cs",
+              "RelativeToolTip": "..\\HR.Domain\\Models\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:49:53.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CandidateApplication.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
+              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
+              "RelativeToolTip": "..\\HR.Domain\\Models\\Recruitment\\CandidateApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:07:28.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "..\\HR.Domain\\Models\\BaseModel.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.Domain\\Models\\BaseModel.cs",
+              "RelativeToolTip": "..\\HR.Domain\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:49:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RecruitmentCircularRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
+              "RelativeDocumentMoniker": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
+              "RelativeToolTip": "..\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:11:37.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HRAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.Development.json",
+              "RelativeToolTip": "HRAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T05:04:05.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\DepartmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:24:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:24:18.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "HRAPI\\Models\\TokenResponse.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "HRAPI\\Models\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:04:17.132Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "HRAPI\\Models\\JWTSettings.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Models\\JWTSettings.cs",
+              "RelativeToolTip": "HRAPI\\Models\\JWTSettings.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:04:14.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HRAPI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\appsettings.json",
+              "RelativeToolTip": "HRAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T09:12:49.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CandidateApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Repository\\CandidateApplicationRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:02:11.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CandidateApplicationConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "ToolTip": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\CandidateApplicationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:02:40.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "EmployeeSetupService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\EmployeeSetupService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\EmployeeSetupService.cs",
@@ -601,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "RecruitmentCircularController.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\RecruitmentCircularController.cs",
               "RelativeDocumentMoniker": "HRAPI\\Controllers\\RecruitmentCircularController.cs",
@@ -609,11 +774,12 @@
               "RelativeToolTip": "HRAPI\\Controllers\\RecruitmentCircularController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:51:19.844Z"
+              "WhenOpened": "2024-06-12T11:51:19.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "IRecruitmentCircularService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\IServices\\IRecruitmentCircularService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\IServices\\IRecruitmentCircularService.cs",
@@ -625,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "EmployeeSetupController.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\EmployeeSetupController.cs",
               "RelativeDocumentMoniker": "HRAPI\\Controllers\\EmployeeSetupController.cs",
@@ -637,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Repository\\CategoryRepository.cs",
@@ -649,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "EmployeeSetupRepository.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Repository\\EmployeeSetupRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Repository\\EmployeeSetupRepository.cs",
@@ -661,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 49,
               "Title": "EmployeeSetup.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Domain\\Models\\Setup\\EmployeeSetup.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Domain\\Models\\Setup\\EmployeeSetup.cs",
@@ -673,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 50,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\IServices\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\IServices\\IEmployeeService.cs",
@@ -685,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "CompanyService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\CompanyService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\CompanyService.cs",
@@ -697,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 52,
               "Title": "CommonService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\CommonService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\CommonService.cs",
@@ -709,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 53,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\PasswordHasher.cs",
@@ -721,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 54,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\DepartmentService.cs",
@@ -733,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 55,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Services\\CategoryService.cs",
@@ -745,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 56,
               "Title": "EmployeeRequest.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Dtos\\Setup\\EmployeeRequest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Dtos\\Setup\\EmployeeRequest.cs",
@@ -757,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "HRAPI\\ServiceCollectionExtensions.cs",
@@ -769,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 57,
               "Title": "CandidateApplicationRequest.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Dtos\\Recruitment\\CandidateApplicationRequest.cs",
@@ -781,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 58,
               "Title": "RecruitmentCircularRequest.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Dtos\\Recruitment\\RecruitmentCircularRequest.cs",
@@ -793,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 59,
               "Title": "ICandidateApplicationService.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\IServices\\ICandidateApplicationService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\IServices\\ICandidateApplicationService.cs",
@@ -805,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 60,
               "Title": "ShortlistedCandidate.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Domain\\Models\\Recruitment\\ShortlistedCandidate.cs",
@@ -817,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 61,
               "Title": "CategoryRequest.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\Dtos\\CategoryRequest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\Dtos\\CategoryRequest.cs",
@@ -829,19 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "HRAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Projects\\.Net 8 Projects\\Git\\HR\\HRAPI\\HRAPI\\HRAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "HRAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:51:48.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 62,
               "Title": "RecruitmentCircularConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Configuration\\RecruitmentCircularConfiguration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Configuration\\RecruitmentCircularConfiguration.cs",
@@ -853,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 63,
               "Title": "20240612120501_candidateApplication.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Migrations\\20240612120501_candidateApplication.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Migrations\\20240612120501_candidateApplication.cs",
@@ -865,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 64,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.ApplicationLayer\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.ApplicationLayer\\DependencyInjection.cs",
@@ -877,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 65,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\DependencyInjection.cs",
@@ -889,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 66,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\.Net 8 Projects\\HR\\HR.Infastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\HR\\HR.Infastructure\\Data\\AppDbContext.cs",

@@ -7,6 +7,7 @@ namespace HR.ApplicationLayer.IServices
     {
         Task<List<CandidateApplicationRequest>> GetAllAsync();
         Task<CandidateApplicationRequest> GetByIdAsync(int id);
+        Task<List<CandidateApplicationRequest>> GetByRecruitmentIdAsync(int id);
         Task<CandidateApplicationRequest> CreateAsync(CandidateApplicationRequest model);
         Task<int> UpDateAsync(int id, CandidateApplicationRequest model);
         Task<int> DeleteAsync(int id);

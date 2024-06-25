@@ -97,9 +97,15 @@ namespace HR.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<decimal>("CurrentSalary")
+                        .HasColumnType("decimal(18,2)");
+
                     b.Property<string>("Education")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("ExpectedSalary")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<int>("ExperienceYears")
                         .HasColumnType("int");
@@ -259,6 +265,68 @@ namespace HR.Infrastructure.Migrations
                     b.HasKey("RecruitmentCircularId");
 
                     b.ToTable("RecruitmentCircular", (string)null);
+                });
+
+            modelBuilder.Entity("HR.Domain.Models.Recruitment.ShortlistedCandidate", b =>
+                {
+                    b.Property<int>("ShortlistId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ShortlistId"));
+
+                    b.Property<string>("AdditionalInformation")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ApplicationId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("AssessmentScore")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CandidateId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("InterviewCallDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("InterviewDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("InterviewMarks")
+                        .HasColumnType("int");
+
+                    b.Property<string>("InterviewSchedule")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("InterviewerComments")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("JobCircularId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("NextSteps")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Remarks")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("ShortlistDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ShortlistId");
+
+                    b.ToTable("ShortlistedCandidate", (string)null);
                 });
 
             modelBuilder.Entity("HR.Domain.Models.Setup.Category", b =>
